@@ -1,0 +1,4 @@
+git clone <url>
+git push
+git pull
+git log
